@@ -28,3 +28,5 @@ As perguntas estão organizadas por temas:
 
 Contribuições são bem-vindas! Fique à vontade para abrir uma issue ou um pull request.
 
+### UPE - Ciência da Computação 
+**Fundamentos Filosóficos da Educação**
