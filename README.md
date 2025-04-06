@@ -1,5 +1,3 @@
-
-```markdown
 # Quiz de Filosofia da Educação
 
 Este é um projeto de quiz interativo desenvolvido com **HTML**, **CSS** e **JavaScript** que testa conhecimentos sobre temas filosóficos aplicados à educação, como Sócrates, Platão, Aristóteles, ética na formação de professores, entre outros.
