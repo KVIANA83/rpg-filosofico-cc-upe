@@ -1,1 +1,61 @@
+/* Estilização Geral */
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+body {
+  background: linear-gradient(to right, #c9d6ff, #e2e2e2);
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.container {
+  margin: 50px auto;
+  padding: 20px;
+  max-width: 600px;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+
+#answer-list {
+  list-style: none;
+  padding: 0;
+}
+
+#answer-list li {
+  margin: 10px 0;
+  background: #f1f1f1;
+  padding: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+#answer-list li:hover {
+  background-color: #dbeafe;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  background-color: #2563eb;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #1e40af;
+}
+
+.hidden {
+  display: none;
+}
+
+
 
